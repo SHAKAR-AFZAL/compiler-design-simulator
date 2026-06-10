@@ -51,7 +51,7 @@ The main objectives of this project are:
 
 ### ⚙️ Interactive Compilation
 - Run All functionality
-- Step-by-step execution mode
+- Step by step execution mode
 - Real-time phase status indicators
 - Visual compilation pipeline
 - Live output generation
