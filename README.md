@@ -27,7 +27,7 @@
 
 The **Compiler Design Simulator** is a browser-based educational application developed to demonstrate the complete compilation process through an interactive graphical interface.
 
-The simulator accepts source code written in a simplified C-like language and processes it through all six classical compiler phases. Users can execute each phase individually or run the full pipeline while observing intermediate outputs such as tokens, syntax trees, symbol tables, intermediate code, optimized code, and pseudo machine code.
+The simulator accepts source code written in a simplified C like language and processes it through all six classical compiler phases. Users can execute each phase individually or run the full pipeline while observing intermediate outputs such as tokens, syntax trees, symbol tables, intermediate code, optimized code, and pseudo machine code.
 
 This project was developed as part of the **Compiler Construction course** to provide a practical understanding of compiler design concepts.
 
