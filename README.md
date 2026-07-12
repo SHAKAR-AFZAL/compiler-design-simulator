@@ -1,6 +1,6 @@
 # Compiler Design Simulator
 
-*An interactive web based compiler simulator that visualizes all six major phases of a compiler, allowing students and developers to understand the complete compilation process step-by-step.*
+*An interactive web based compiler simulator that visualizes all six major phases of a compiler, allowing students and developers to understand the complete compilation process step by-step.*
 
 ---
 
